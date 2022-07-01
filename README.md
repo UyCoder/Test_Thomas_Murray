@@ -1,4 +1,4 @@
-# This is a test for technical interview of Thomas Murray
+# Tests for technical interview of Thomas Murray
 
 Write a test that:
 1.	opens https://unsplash.com/
@@ -8,6 +8,7 @@ Write a test that:
 If you find yourself unable to solve a particular aspect of the task in reasonable amount of time (e.g. 2-6 hours for the whole task), you may simplify that particular aspect (download first image instead of 20th, check for some condition with image URL instead of size and so on).
 
 ===================================================
+
 1. Get adoptopenjdk-8: https://adoptopenjdk.net/
 2. Get maven 3.6.x: https://maven.apache.org/
 3. Add above to your path if neccessary.
